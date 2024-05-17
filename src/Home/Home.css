@@ -38,7 +38,7 @@ button {
 button:hover {
   border-color: rgb(11, 127, 162);
     background-color: #fff;
-  color: rgb(11, 127, 162);
+  color: #0b7fa2;
   transition: 0.7s;
 }
 
