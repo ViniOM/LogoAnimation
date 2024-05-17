@@ -1,0 +1,7 @@
+.home {
+  color: rgb(11, 127, 162);
+}
+
+.logo {
+   animation: App-logo-spin infinite 2s backwards;
+ }
