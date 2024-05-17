@@ -1,7 +1,56 @@
+body {
+  background-color: #FFF;
+}
+
 .home {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  display: flex;
+  background-color: rgb(11, 127, 162);
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+    align-items: center;
+}
+
+.content {
+  text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5vh;
+}
+
+button {
+  margin-top: 10vh;
+  padding: 10px;
+  border: solid 2px;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgb(11, 127, 162);
+  color: #fff;
+  transition: 0.7s;
+}
+
+button:hover {
+  border-color: rgb(11, 127, 162);
+    background-color: #fff;
   color: rgb(11, 127, 162);
+  transition: 0.7s;
 }
 
 .logo {
-   animation: App-logo-spin infinite 2s backwards;
- }
+  margin-top: 2vh;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
