@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LogoAnimation/static/css/main.4cae78eb.css",
+    "main.js": "/LogoAnimation/static/js/main.657a1cc5.js",
+    "static/media/logo.svg": "/LogoAnimation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LogoAnimation/index.html",
+    "main.4cae78eb.css.map": "/LogoAnimation/static/css/main.4cae78eb.css.map",
+    "main.657a1cc5.js.map": "/LogoAnimation/static/js/main.657a1cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cae78eb.css",
+    "static/js/main.657a1cc5.js"
+  ]
+}
